@@ -8,4 +8,4 @@ Using a 6-DOF manipulator and depth camera to pick different sizes and colors of
 
 **Reasoning**: Path planning / Path smoothing
 
-![](https://github.com/relifeto18/ROB_550/blob/main/Armlab/grasp%20block.gif)
+![](https://github.com/relifeto18/Armlab/blob/main/grasp%20block.gif)
